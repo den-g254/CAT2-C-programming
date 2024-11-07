@@ -1,4 +1,3 @@
-//cat; HOW TO PROGRAM STRUCTURE
 //CAT2: structure program
 /*
 Author:Denzel Gitonga Mugendi
